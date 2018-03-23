@@ -200,7 +200,7 @@ ver más fotos: https://drive.google.com/drive/folders/1-4320dJGmeaYJ8LMzX8WWSiB
 
 - En base a los card soarting se hizo un mapa de sitio (árbol) para organizar la información en la aplicación, ya que uno de los problemas de la app oficial es la no adecuada organización de su información.
 
-![mapa de sitio](assets/images/feature.png)
+![mapa de sitio](assets/images/mapa3.png)
 
 - Em mapa de sitio fue testeado mediante la herramineta digital Optimal Workshop para ver si los usuarios podían navegar sin dificultad. Para ello e insertó el árbol en la herramienta y se definió tareas.
 - Link: https://iawfxab0.optimalworkshop.com/treejack/1mfe5y67
@@ -219,31 +219,31 @@ ver más fotos: https://drive.google.com/drive/folders/1-4320dJGmeaYJ8LMzX8WWSiB
 
 - Registro
 
-![prototipo](assets/images/sitio3.png)
+![prototipo](assets/images/registro.png)
 
 - Tarjeta virtual
 
-![prototipo](assets/images/sitio3.png)
+![prototipo](assets/images/tarjeta.png)
 
 - Notificaciones
 
-![prototipo](assets/images/sitio3.png)
+![prototipo](assets/images/notificaciones.png)
 
 - estaciones
 
-![prototipo](assets/images/sitio3.png)
+![prototipo](assets/images/estaciones.png)
 
 - Saldos y recargas
 
-![prototipo](assets/images/sitio3.png)
+![prototipo](assets/images/consultas.png)
 
 - Información al cliente
 
-![prototipo](assets/images/sitio3.png)
+![prototipo](assets/images/info.png)
 
 - Rastree su tren
 
-![prototipo](assets/images/sitio3.png)
+![prototipo](assets/images/rastreo.png)
 
 ### V. Testing del paper protopipyng
 
